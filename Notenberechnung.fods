@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2018-10-24T13:57:49.582717941</meta:creation-date><dc:date>2018-11-07T17:03:58.446764138</dc:date><meta:editing-duration>PT17H6M11S</meta:editing-duration><meta:editing-cycles>52</meta:editing-cycles><meta:generator>LibreOffice/6.0.7.3.0$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><dc:creator>Olaf Pichler</dc:creator><meta:document-statistic meta:table-count="6" meta:cell-count="2152" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2018-10-24T13:57:49.582717941</meta:creation-date><dc:date>2019-07-11T13:46:23.800970669</dc:date><meta:editing-duration>PT17H10M43S</meta:editing-duration><meta:editing-cycles>54</meta:editing-cycles><meta:generator>LibreOffice/6.2.4.2.0$Linux_X86_64 LibreOffice_project/20$Build-2</meta:generator><meta:document-statistic meta:table-count="6" meta:cell-count="2152" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">508</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">74422</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">30321</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">49022</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">26061</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -85,8 +85,8 @@
        <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Notentabelle">
-       <config:config-item config:name="CursorPositionX" config:type="int">11</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">10</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">13</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -95,7 +95,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">6</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">110</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -122,7 +122,7 @@
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">Notentabelle</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1857</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1853</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">110</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -130,7 +130,7 @@
      <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
      <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
      <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
-     <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+     <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
      <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
      <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
      <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
@@ -149,12 +149,19 @@
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
    <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ggH+/zEtMjgxX3JpY29oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzoxLTI4MV9yaWNvaAAAAAAAAAAAAAAAAAAAAAAWAAMAowAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9MS0yODFfcmljb2gKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhChIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">1-281_ricoh</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
@@ -165,27 +172,26 @@
      <config:config-item config:name="EndLine" config:type="string"/>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
-   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
-   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
-   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
-   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
    <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
-   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">nwH+/zEtMjgxX3JpY29oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzoxLTI4MV9yaWNvaAAAAAAAAAAAAAAAAAAAAAAWAAMAwAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9MS0yODFfcmljb2gKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUPAER1cGxleE1vZGU6Ok9mZg==</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -197,7 +203,9 @@
  </office:scripts>
  <office:font-face-decls>
   <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="DejaVu Sans1" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
@@ -592,7 +600,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2018-11-07">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="16:00:37.181291100">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2019-07-11">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="13:46:06.403975523">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -893,7 +901,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A12]=&quot;&quot;);NOT([.$D12]=&quot;&quot;);NOT([.$E12]=&quot;&quot;));([.$E$4]*[.$D12]+[.$E$5]*[.$E12])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A12]=&quot;&quot;);COUNT([.$F12:.$J12]));SUM([.$F12:.$J12])/COUNT([.$F12:.$J12]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A12]=&quot;&quot;);COUNT([.$F12:.$K12]));SUM([.$F12:.$K12])/COUNT([.$F12:.$K12]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A12]=&quot;&quot;);COUNT([.$L12:.$U12]));SUM([.$L12:.$U12])/COUNT([.$L12:.$U12]);&quot;&quot;)">
@@ -925,7 +933,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A13]=&quot;&quot;);NOT([.$D13]=&quot;&quot;);NOT([.$E13]=&quot;&quot;));([.$E$4]*[.$D13]+[.$E$5]*[.$E13])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A13]=&quot;&quot;);COUNT([.$F13:.$J13]));SUM([.$F13:.$J13])/COUNT([.$F13:.$J13]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A13]=&quot;&quot;);COUNT([.$F13:.$K13]));SUM([.$F13:.$K13])/COUNT([.$F13:.$K13]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A13]=&quot;&quot;);COUNT([.$L13:.$U13]));SUM([.$L13:.$U13])/COUNT([.$L13:.$U13]);&quot;&quot;)">
@@ -957,7 +965,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A14]=&quot;&quot;);NOT([.$D14]=&quot;&quot;);NOT([.$E14]=&quot;&quot;));([.$E$4]*[.$D14]+[.$E$5]*[.$E14])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A14]=&quot;&quot;);COUNT([.$F14:.$J14]));SUM([.$F14:.$J14])/COUNT([.$F14:.$J14]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A14]=&quot;&quot;);COUNT([.$F14:.$K14]));SUM([.$F14:.$K14])/COUNT([.$F14:.$K14]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A14]=&quot;&quot;);COUNT([.$L14:.$U14]));SUM([.$L14:.$U14])/COUNT([.$L14:.$U14]);&quot;&quot;)">
@@ -989,7 +997,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A15]=&quot;&quot;);NOT([.$D15]=&quot;&quot;);NOT([.$E15]=&quot;&quot;));([.$E$4]*[.$D15]+[.$E$5]*[.$E15])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A15]=&quot;&quot;);COUNT([.$F15:.$J15]));SUM([.$F15:.$J15])/COUNT([.$F15:.$J15]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A15]=&quot;&quot;);COUNT([.$F15:.$K15]));SUM([.$F15:.$K15])/COUNT([.$F15:.$K15]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A15]=&quot;&quot;);COUNT([.$L15:.$U15]));SUM([.$L15:.$U15])/COUNT([.$L15:.$U15]);&quot;&quot;)">
@@ -1021,7 +1029,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A16]=&quot;&quot;);NOT([.$D16]=&quot;&quot;);NOT([.$E16]=&quot;&quot;));([.$E$4]*[.$D16]+[.$E$5]*[.$E16])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A16]=&quot;&quot;);COUNT([.$F16:.$J16]));SUM([.$F16:.$J16])/COUNT([.$F16:.$J16]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A16]=&quot;&quot;);COUNT([.$F16:.$K16]));SUM([.$F16:.$K16])/COUNT([.$F16:.$K16]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A16]=&quot;&quot;);COUNT([.$L16:.$U16]));SUM([.$L16:.$U16])/COUNT([.$L16:.$U16]);&quot;&quot;)">
@@ -1053,7 +1061,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A17]=&quot;&quot;);NOT([.$D17]=&quot;&quot;);NOT([.$E17]=&quot;&quot;));([.$E$4]*[.$D17]+[.$E$5]*[.$E17])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A17]=&quot;&quot;);COUNT([.$F17:.$J17]));SUM([.$F17:.$J17])/COUNT([.$F17:.$J17]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A17]=&quot;&quot;);COUNT([.$F17:.$K17]));SUM([.$F17:.$K17])/COUNT([.$F17:.$K17]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A17]=&quot;&quot;);COUNT([.$L17:.$U17]));SUM([.$L17:.$U17])/COUNT([.$L17:.$U17]);&quot;&quot;)">
@@ -1085,7 +1093,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A18]=&quot;&quot;);NOT([.$D18]=&quot;&quot;);NOT([.$E18]=&quot;&quot;));([.$E$4]*[.$D18]+[.$E$5]*[.$E18])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A18]=&quot;&quot;);COUNT([.$F18:.$J18]));SUM([.$F18:.$J18])/COUNT([.$F18:.$J18]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A18]=&quot;&quot;);COUNT([.$F18:.$K18]));SUM([.$F18:.$K18])/COUNT([.$F18:.$K18]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A18]=&quot;&quot;);COUNT([.$L18:.$U18]));SUM([.$L18:.$U18])/COUNT([.$L18:.$U18]);&quot;&quot;)">
@@ -1117,7 +1125,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A19]=&quot;&quot;);NOT([.$D19]=&quot;&quot;);NOT([.$E19]=&quot;&quot;));([.$E$4]*[.$D19]+[.$E$5]*[.$E19])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A19]=&quot;&quot;);COUNT([.$F19:.$J19]));SUM([.$F19:.$J19])/COUNT([.$F19:.$J19]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A19]=&quot;&quot;);COUNT([.$F19:.$K19]));SUM([.$F19:.$K19])/COUNT([.$F19:.$K19]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A19]=&quot;&quot;);COUNT([.$L19:.$U19]));SUM([.$L19:.$U19])/COUNT([.$L19:.$U19]);&quot;&quot;)">
@@ -1149,7 +1157,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A20]=&quot;&quot;);NOT([.$D20]=&quot;&quot;);NOT([.$E20]=&quot;&quot;));([.$E$4]*[.$D20]+[.$E$5]*[.$E20])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A20]=&quot;&quot;);COUNT([.$F20:.$J20]));SUM([.$F20:.$J20])/COUNT([.$F20:.$J20]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A20]=&quot;&quot;);COUNT([.$F20:.$K20]));SUM([.$F20:.$K20])/COUNT([.$F20:.$K20]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A20]=&quot;&quot;);COUNT([.$L20:.$U20]));SUM([.$L20:.$U20])/COUNT([.$L20:.$U20]);&quot;&quot;)">
@@ -1181,7 +1189,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A21]=&quot;&quot;);NOT([.$D21]=&quot;&quot;);NOT([.$E21]=&quot;&quot;));([.$E$4]*[.$D21]+[.$E$5]*[.$E21])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A21]=&quot;&quot;);COUNT([.$F21:.$J21]));SUM([.$F21:.$J21])/COUNT([.$F21:.$J21]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A21]=&quot;&quot;);COUNT([.$F21:.$K21]));SUM([.$F21:.$K21])/COUNT([.$F21:.$K21]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A21]=&quot;&quot;);COUNT([.$L21:.$U21]));SUM([.$L21:.$U21])/COUNT([.$L21:.$U21]);&quot;&quot;)">
@@ -1213,7 +1221,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A22]=&quot;&quot;);NOT([.$D22]=&quot;&quot;);NOT([.$E22]=&quot;&quot;));([.$E$4]*[.$D22]+[.$E$5]*[.$E22])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A22]=&quot;&quot;);COUNT([.$F22:.$J22]));SUM([.$F22:.$J22])/COUNT([.$F22:.$J22]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A22]=&quot;&quot;);COUNT([.$F22:.$K22]));SUM([.$F22:.$K22])/COUNT([.$F22:.$K22]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A22]=&quot;&quot;);COUNT([.$L22:.$U22]));SUM([.$L22:.$U22])/COUNT([.$L22:.$U22]);&quot;&quot;)">
@@ -1245,7 +1253,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A23]=&quot;&quot;);NOT([.$D23]=&quot;&quot;);NOT([.$E23]=&quot;&quot;));([.$E$4]*[.$D23]+[.$E$5]*[.$E23])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A23]=&quot;&quot;);COUNT([.$F23:.$J23]));SUM([.$F23:.$J23])/COUNT([.$F23:.$J23]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A23]=&quot;&quot;);COUNT([.$F23:.$K23]));SUM([.$F23:.$K23])/COUNT([.$F23:.$K23]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A23]=&quot;&quot;);COUNT([.$L23:.$U23]));SUM([.$L23:.$U23])/COUNT([.$L23:.$U23]);&quot;&quot;)">
@@ -1277,7 +1285,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A24]=&quot;&quot;);NOT([.$D24]=&quot;&quot;);NOT([.$E24]=&quot;&quot;));([.$E$4]*[.$D24]+[.$E$5]*[.$E24])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A24]=&quot;&quot;);COUNT([.$F24:.$J24]));SUM([.$F24:.$J24])/COUNT([.$F24:.$J24]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A24]=&quot;&quot;);COUNT([.$F24:.$K24]));SUM([.$F24:.$K24])/COUNT([.$F24:.$K24]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A24]=&quot;&quot;);COUNT([.$L24:.$U24]));SUM([.$L24:.$U24])/COUNT([.$L24:.$U24]);&quot;&quot;)">
@@ -1309,7 +1317,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A25]=&quot;&quot;);NOT([.$D25]=&quot;&quot;);NOT([.$E25]=&quot;&quot;));([.$E$4]*[.$D25]+[.$E$5]*[.$E25])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A25]=&quot;&quot;);COUNT([.$F25:.$J25]));SUM([.$F25:.$J25])/COUNT([.$F25:.$J25]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A25]=&quot;&quot;);COUNT([.$F25:.$K25]));SUM([.$F25:.$K25])/COUNT([.$F25:.$K25]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A25]=&quot;&quot;);COUNT([.$L25:.$U25]));SUM([.$L25:.$U25])/COUNT([.$L25:.$U25]);&quot;&quot;)">
@@ -1341,7 +1349,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A26]=&quot;&quot;);NOT([.$D26]=&quot;&quot;);NOT([.$E26]=&quot;&quot;));([.$E$4]*[.$D26]+[.$E$5]*[.$E26])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A26]=&quot;&quot;);COUNT([.$F26:.$J26]));SUM([.$F26:.$J26])/COUNT([.$F26:.$J26]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A26]=&quot;&quot;);COUNT([.$F26:.$K26]));SUM([.$F26:.$K26])/COUNT([.$F26:.$K26]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A26]=&quot;&quot;);COUNT([.$L26:.$U26]));SUM([.$L26:.$U26])/COUNT([.$L26:.$U26]);&quot;&quot;)">
@@ -1373,7 +1381,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A27]=&quot;&quot;);NOT([.$D27]=&quot;&quot;);NOT([.$E27]=&quot;&quot;));([.$E$4]*[.$D27]+[.$E$5]*[.$E27])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A27]=&quot;&quot;);COUNT([.$F27:.$J27]));SUM([.$F27:.$J27])/COUNT([.$F27:.$J27]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A27]=&quot;&quot;);COUNT([.$F27:.$K27]));SUM([.$F27:.$K27])/COUNT([.$F27:.$K27]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A27]=&quot;&quot;);COUNT([.$L27:.$U27]));SUM([.$L27:.$U27])/COUNT([.$L27:.$U27]);&quot;&quot;)">
@@ -1405,7 +1413,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A28]=&quot;&quot;);NOT([.$D28]=&quot;&quot;);NOT([.$E28]=&quot;&quot;));([.$E$4]*[.$D28]+[.$E$5]*[.$E28])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A28]=&quot;&quot;);COUNT([.$F28:.$J28]));SUM([.$F28:.$J28])/COUNT([.$F28:.$J28]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A28]=&quot;&quot;);COUNT([.$F28:.$K28]));SUM([.$F28:.$K28])/COUNT([.$F28:.$K28]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A28]=&quot;&quot;);COUNT([.$L28:.$U28]));SUM([.$L28:.$U28])/COUNT([.$L28:.$U28]);&quot;&quot;)">
@@ -1437,7 +1445,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A29]=&quot;&quot;);NOT([.$D29]=&quot;&quot;);NOT([.$E29]=&quot;&quot;));([.$E$4]*[.$D29]+[.$E$5]*[.$E29])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A29]=&quot;&quot;);COUNT([.$F29:.$J29]));SUM([.$F29:.$J29])/COUNT([.$F29:.$J29]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A29]=&quot;&quot;);COUNT([.$F29:.$K29]));SUM([.$F29:.$K29])/COUNT([.$F29:.$K29]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A29]=&quot;&quot;);COUNT([.$L29:.$U29]));SUM([.$L29:.$U29])/COUNT([.$L29:.$U29]);&quot;&quot;)">
@@ -1469,7 +1477,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A30]=&quot;&quot;);NOT([.$D30]=&quot;&quot;);NOT([.$E30]=&quot;&quot;));([.$E$4]*[.$D30]+[.$E$5]*[.$E30])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A30]=&quot;&quot;);COUNT([.$F30:.$J30]));SUM([.$F30:.$J30])/COUNT([.$F30:.$J30]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A30]=&quot;&quot;);COUNT([.$F30:.$K30]));SUM([.$F30:.$K30])/COUNT([.$F30:.$K30]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A30]=&quot;&quot;);COUNT([.$L30:.$U30]));SUM([.$L30:.$U30])/COUNT([.$L30:.$U30]);&quot;&quot;)">
@@ -1501,7 +1509,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A31]=&quot;&quot;);NOT([.$D31]=&quot;&quot;);NOT([.$E31]=&quot;&quot;));([.$E$4]*[.$D31]+[.$E$5]*[.$E31])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A31]=&quot;&quot;);COUNT([.$F31:.$J31]));SUM([.$F31:.$J31])/COUNT([.$F31:.$J31]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A31]=&quot;&quot;);COUNT([.$F31:.$K31]));SUM([.$F31:.$K31])/COUNT([.$F31:.$K31]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A31]=&quot;&quot;);COUNT([.$L31:.$U31]));SUM([.$L31:.$U31])/COUNT([.$L31:.$U31]);&quot;&quot;)">
@@ -1533,7 +1541,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A32]=&quot;&quot;);NOT([.$D32]=&quot;&quot;);NOT([.$E32]=&quot;&quot;));([.$E$4]*[.$D32]+[.$E$5]*[.$E32])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A32]=&quot;&quot;);COUNT([.$F32:.$J32]));SUM([.$F32:.$J32])/COUNT([.$F32:.$J32]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A32]=&quot;&quot;);COUNT([.$F32:.$K32]));SUM([.$F32:.$K32])/COUNT([.$F32:.$K32]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A32]=&quot;&quot;);COUNT([.$L32:.$U32]));SUM([.$L32:.$U32])/COUNT([.$L32:.$U32]);&quot;&quot;)">
@@ -1565,7 +1573,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A33]=&quot;&quot;);NOT([.$D33]=&quot;&quot;);NOT([.$E33]=&quot;&quot;));([.$E$4]*[.$D33]+[.$E$5]*[.$E33])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A33]=&quot;&quot;);COUNT([.$F33:.$J33]));SUM([.$F33:.$J33])/COUNT([.$F33:.$J33]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A33]=&quot;&quot;);COUNT([.$F33:.$K33]));SUM([.$F33:.$K33])/COUNT([.$F33:.$K33]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A33]=&quot;&quot;);COUNT([.$L33:.$U33]));SUM([.$L33:.$U33])/COUNT([.$L33:.$U33]);&quot;&quot;)">
@@ -1597,7 +1605,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A34]=&quot;&quot;);NOT([.$D34]=&quot;&quot;);NOT([.$E34]=&quot;&quot;));([.$E$4]*[.$D34]+[.$E$5]*[.$E34])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A34]=&quot;&quot;);COUNT([.$F34:.$J34]));SUM([.$F34:.$J34])/COUNT([.$F34:.$J34]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A34]=&quot;&quot;);COUNT([.$F34:.$K34]));SUM([.$F34:.$K34])/COUNT([.$F34:.$K34]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A34]=&quot;&quot;);COUNT([.$L34:.$U34]));SUM([.$L34:.$U34])/COUNT([.$L34:.$U34]);&quot;&quot;)">
@@ -1629,7 +1637,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A35]=&quot;&quot;);NOT([.$D35]=&quot;&quot;);NOT([.$E35]=&quot;&quot;));([.$E$4]*[.$D35]+[.$E$5]*[.$E35])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A35]=&quot;&quot;);COUNT([.$F35:.$J35]));SUM([.$F35:.$J35])/COUNT([.$F35:.$J35]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A35]=&quot;&quot;);COUNT([.$F35:.$K35]));SUM([.$F35:.$K35])/COUNT([.$F35:.$K35]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A35]=&quot;&quot;);COUNT([.$L35:.$U35]));SUM([.$L35:.$U35])/COUNT([.$L35:.$U35]);&quot;&quot;)">
@@ -1661,7 +1669,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A36]=&quot;&quot;);NOT([.$D36]=&quot;&quot;);NOT([.$E36]=&quot;&quot;));([.$E$4]*[.$D36]+[.$E$5]*[.$E36])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A36]=&quot;&quot;);COUNT([.$F36:.$J36]));SUM([.$F36:.$J36])/COUNT([.$F36:.$J36]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A36]=&quot;&quot;);COUNT([.$F36:.$K36]));SUM([.$F36:.$K36])/COUNT([.$F36:.$K36]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A36]=&quot;&quot;);COUNT([.$L36:.$U36]));SUM([.$L36:.$U36])/COUNT([.$L36:.$U36]);&quot;&quot;)">
@@ -1693,7 +1701,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A37]=&quot;&quot;);NOT([.$D37]=&quot;&quot;);NOT([.$E37]=&quot;&quot;));([.$E$4]*[.$D37]+[.$E$5]*[.$E37])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A37]=&quot;&quot;);COUNT([.$F37:.$J37]));SUM([.$F37:.$J37])/COUNT([.$F37:.$J37]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A37]=&quot;&quot;);COUNT([.$F37:.$K37]));SUM([.$F37:.$K37])/COUNT([.$F37:.$K37]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A37]=&quot;&quot;);COUNT([.$L37:.$U37]));SUM([.$L37:.$U37])/COUNT([.$L37:.$U37]);&quot;&quot;)">
@@ -1725,7 +1733,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A38]=&quot;&quot;);NOT([.$D38]=&quot;&quot;);NOT([.$E38]=&quot;&quot;));([.$E$4]*[.$D38]+[.$E$5]*[.$E38])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A38]=&quot;&quot;);COUNT([.$F38:.$J38]));SUM([.$F38:.$J38])/COUNT([.$F38:.$J38]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A38]=&quot;&quot;);COUNT([.$F38:.$K38]));SUM([.$F38:.$K38])/COUNT([.$F38:.$K38]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A38]=&quot;&quot;);COUNT([.$L38:.$U38]));SUM([.$L38:.$U38])/COUNT([.$L38:.$U38]);&quot;&quot;)">
@@ -1757,7 +1765,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A39]=&quot;&quot;);NOT([.$D39]=&quot;&quot;);NOT([.$E39]=&quot;&quot;));([.$E$4]*[.$D39]+[.$E$5]*[.$E39])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A39]=&quot;&quot;);COUNT([.$F39:.$J39]));SUM([.$F39:.$J39])/COUNT([.$F39:.$J39]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A39]=&quot;&quot;);COUNT([.$F39:.$K39]));SUM([.$F39:.$K39])/COUNT([.$F39:.$K39]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A39]=&quot;&quot;);COUNT([.$L39:.$U39]));SUM([.$L39:.$U39])/COUNT([.$L39:.$U39]);&quot;&quot;)">
@@ -1789,7 +1797,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A40]=&quot;&quot;);NOT([.$D40]=&quot;&quot;);NOT([.$E40]=&quot;&quot;));([.$E$4]*[.$D40]+[.$E$5]*[.$E40])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A40]=&quot;&quot;);COUNT([.$F40:.$J40]));SUM([.$F40:.$J40])/COUNT([.$F40:.$J40]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A40]=&quot;&quot;);COUNT([.$F40:.$K40]));SUM([.$F40:.$K40])/COUNT([.$F40:.$K40]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A40]=&quot;&quot;);COUNT([.$L40:.$U40]));SUM([.$L40:.$U40])/COUNT([.$L40:.$U40]);&quot;&quot;)">
@@ -1821,7 +1829,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A41]=&quot;&quot;);NOT([.$D41]=&quot;&quot;);NOT([.$E41]=&quot;&quot;));([.$E$4]*[.$D41]+[.$E$5]*[.$E41])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A41]=&quot;&quot;);COUNT([.$F41:.$J41]));SUM([.$F41:.$J41])/COUNT([.$F41:.$J41]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A41]=&quot;&quot;);COUNT([.$F41:.$K41]));SUM([.$F41:.$K41])/COUNT([.$F41:.$K41]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A41]=&quot;&quot;);COUNT([.$L41:.$U41]));SUM([.$L41:.$U41])/COUNT([.$L41:.$U41]);&quot;&quot;)">
@@ -1853,7 +1861,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A42]=&quot;&quot;);NOT([.$D42]=&quot;&quot;);NOT([.$E42]=&quot;&quot;));([.$E$4]*[.$D42]+[.$E$5]*[.$E42])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A42]=&quot;&quot;);COUNT([.$F42:.$J42]));SUM([.$F42:.$J42])/COUNT([.$F42:.$J42]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A42]=&quot;&quot;);COUNT([.$F42:.$K42]));SUM([.$F42:.$K42])/COUNT([.$F42:.$K42]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A42]=&quot;&quot;);COUNT([.$L42:.$U42]));SUM([.$L42:.$U42])/COUNT([.$L42:.$U42]);&quot;&quot;)">
@@ -1885,7 +1893,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A43]=&quot;&quot;);NOT([.$D43]=&quot;&quot;);NOT([.$E43]=&quot;&quot;));([.$E$4]*[.$D43]+[.$E$5]*[.$E43])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A43]=&quot;&quot;);COUNT([.$F43:.$J43]));SUM([.$F43:.$J43])/COUNT([.$F43:.$J43]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A43]=&quot;&quot;);COUNT([.$F43:.$K43]));SUM([.$F43:.$K43])/COUNT([.$F43:.$K43]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A43]=&quot;&quot;);COUNT([.$L43:.$U43]));SUM([.$L43:.$U43])/COUNT([.$L43:.$U43]);&quot;&quot;)">
@@ -1917,7 +1925,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A44]=&quot;&quot;);NOT([.$D44]=&quot;&quot;);NOT([.$E44]=&quot;&quot;));([.$E$4]*[.$D44]+[.$E$5]*[.$E44])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A44]=&quot;&quot;);COUNT([.$F44:.$J44]));SUM([.$F44:.$J44])/COUNT([.$F44:.$J44]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A44]=&quot;&quot;);COUNT([.$F44:.$K44]));SUM([.$F44:.$K44])/COUNT([.$F44:.$K44]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A44]=&quot;&quot;);COUNT([.$L44:.$U44]));SUM([.$L44:.$U44])/COUNT([.$L44:.$U44]);&quot;&quot;)">
@@ -1949,7 +1957,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A45]=&quot;&quot;);NOT([.$D45]=&quot;&quot;);NOT([.$E45]=&quot;&quot;));([.$E$4]*[.$D45]+[.$E$5]*[.$E45])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A45]=&quot;&quot;);COUNT([.$F45:.$J45]));SUM([.$F45:.$J45])/COUNT([.$F45:.$J45]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A45]=&quot;&quot;);COUNT([.$F45:.$K45]));SUM([.$F45:.$K45])/COUNT([.$F45:.$K45]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A45]=&quot;&quot;);COUNT([.$L45:.$U45]));SUM([.$L45:.$U45])/COUNT([.$L45:.$U45]);&quot;&quot;)">
@@ -1981,7 +1989,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A46]=&quot;&quot;);NOT([.$D46]=&quot;&quot;);NOT([.$E46]=&quot;&quot;));([.$E$4]*[.$D46]+[.$E$5]*[.$E46])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A46]=&quot;&quot;);COUNT([.$F46:.$J46]));SUM([.$F46:.$J46])/COUNT([.$F46:.$J46]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A46]=&quot;&quot;);COUNT([.$F46:.$K46]));SUM([.$F46:.$K46])/COUNT([.$F46:.$K46]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A46]=&quot;&quot;);COUNT([.$L46:.$U46]));SUM([.$L46:.$U46])/COUNT([.$L46:.$U46]);&quot;&quot;)">
@@ -2013,7 +2021,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A47]=&quot;&quot;);NOT([.$D47]=&quot;&quot;);NOT([.$E47]=&quot;&quot;));([.$E$4]*[.$D47]+[.$E$5]*[.$E47])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A47]=&quot;&quot;);COUNT([.$F47:.$J47]));SUM([.$F47:.$J47])/COUNT([.$F47:.$J47]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A47]=&quot;&quot;);COUNT([.$F47:.$K47]));SUM([.$F47:.$K47])/COUNT([.$F47:.$K47]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A47]=&quot;&quot;);COUNT([.$L47:.$U47]));SUM([.$L47:.$U47])/COUNT([.$L47:.$U47]);&quot;&quot;)">
@@ -2045,7 +2053,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A48]=&quot;&quot;);NOT([.$D48]=&quot;&quot;);NOT([.$E48]=&quot;&quot;));([.$E$4]*[.$D48]+[.$E$5]*[.$E48])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A48]=&quot;&quot;);COUNT([.$F48:.$J48]));SUM([.$F48:.$J48])/COUNT([.$F48:.$J48]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A48]=&quot;&quot;);COUNT([.$F48:.$K48]));SUM([.$F48:.$K48])/COUNT([.$F48:.$K48]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A48]=&quot;&quot;);COUNT([.$L48:.$U48]));SUM([.$L48:.$U48])/COUNT([.$L48:.$U48]);&quot;&quot;)">
@@ -2077,7 +2085,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A49]=&quot;&quot;);NOT([.$D49]=&quot;&quot;);NOT([.$E49]=&quot;&quot;));([.$E$4]*[.$D49]+[.$E$5]*[.$E49])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A49]=&quot;&quot;);COUNT([.$F49:.$J49]));SUM([.$F49:.$J49])/COUNT([.$F49:.$J49]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A49]=&quot;&quot;);COUNT([.$F49:.$K49]));SUM([.$F49:.$K49])/COUNT([.$F49:.$K49]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A49]=&quot;&quot;);COUNT([.$L49:.$U49]));SUM([.$L49:.$U49])/COUNT([.$L49:.$U49]);&quot;&quot;)">
@@ -2109,7 +2117,7 @@
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A50]=&quot;&quot;);NOT([.$D50]=&quot;&quot;);NOT([.$E50]=&quot;&quot;));([.$E$4]*[.$D50]+[.$E$5]*[.$E50])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:formula="of:=IF(AND(NOT([.$A50]=&quot;&quot;);COUNT([.$F50:.$J50]));SUM([.$F50:.$J50])/COUNT([.$F50:.$J50]);&quot;&quot;)">
+     <table:table-cell table:formula="of:=IF(AND(NOT([.$A50]=&quot;&quot;);COUNT([.$F50:.$K50]));SUM([.$F50:.$K50])/COUNT([.$F50:.$K50]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:formula="of:=IF(AND(NOT([.$A50]=&quot;&quot;);COUNT([.$L50:.$U50]));SUM([.$L50:.$U50])/COUNT([.$L50:.$U50]);&quot;&quot;)">
@@ -2141,7 +2149,7 @@
      <table:table-cell table:style-name="ce32" table:formula="of:=IF(AND(NOT([.$A51]=&quot;&quot;);NOT([.$D51]=&quot;&quot;);NOT([.$E51]=&quot;&quot;));([.$E$4]*[.$D51]+[.$E$5]*[.$E51])/([.$E$4]+[.$E$5]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
-     <table:table-cell table:style-name="ce32" table:formula="of:=IF(AND(NOT([.$A51]=&quot;&quot;);COUNT([.$F51:.$J51]));SUM([.$F51:.$J51])/COUNT([.$F51:.$J51]);&quot;&quot;)">
+     <table:table-cell table:style-name="ce32" table:formula="of:=IF(AND(NOT([.$A51]=&quot;&quot;);COUNT([.$F51:.$K51]));SUM([.$F51:.$K51])/COUNT([.$F51:.$K51]);&quot;&quot;)">
       <text:p/>
      </table:table-cell>
      <table:table-cell table:style-name="ce32" table:formula="of:=IF(AND(NOT([.$A51]=&quot;&quot;);COUNT([.$L51:.$U51]));SUM([.$L51:.$U51])/COUNT([.$L51:.$U51]);&quot;&quot;)">
@@ -2169,9 +2177,10 @@
    <table:table table:name="Tests" table:style-name="ta1" table:protected="true">
     <loext:table-protection loext:select-protected-cells="true" loext:select-unprotected-cells="true"/>
     <office:forms form:automatic-focus="false" form:apply-design-mode="false">
-     <form:form form:name="Form" form:apply-filter="true" form:command-type="table" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="" xlink:href="" xlink:type="simple">
+     <form:form form:name="Form" form:apply-filter="true" form:command-type="table" form:control-implementation="ooo:com.sun.star.form.component.Form" office:target-frame="">
       <form:properties>
        <form:property form:property-name="PropertyChangeNotificationEnabled" office:value-type="boolean" office:boolean-value="true"/>
+       <form:property form:property-name="TargetURL" office:value-type="string" office:string-value=""/>
       </form:properties>
      </form:form>
     </office:forms>
@@ -2857,7 +2866,6 @@
    </table:table>
    <table:table table:name="Klassenarbeit 1" table:style-name="ta1" table:protected="true">
     <loext:table-protection loext:select-protected-cells="true" loext:select-unprotected-cells="true"/>
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce14"/>
     <table:table-column table:style-name="co6" table:number-columns-repeated="2" table:default-cell-style-name="ce14"/>
     <table:table-column table:style-name="co6" table:number-columns-repeated="19" table:default-cell-style-name="Default"/>
@@ -4305,7 +4313,6 @@
    </table:table>
    <table:table table:name="Klassenarbeit 2" table:style-name="ta1" table:protected="true">
     <loext:table-protection loext:select-protected-cells="true" loext:select-unprotected-cells="true"/>
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce14"/>
     <table:table-column table:style-name="co6" table:number-columns-repeated="2" table:default-cell-style-name="ce14"/>
     <table:table-column table:style-name="co6" table:number-columns-repeated="19" table:default-cell-style-name="Default"/>
@@ -5753,7 +5760,6 @@
    </table:table>
    <table:table table:name="Klassenarbeit 3" table:style-name="ta1" table:protected="true">
     <loext:table-protection loext:select-protected-cells="true" loext:select-unprotected-cells="true"/>
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce14"/>
     <table:table-column table:style-name="co6" table:number-columns-repeated="2" table:default-cell-style-name="ce14"/>
     <table:table-column table:style-name="co6" table:number-columns-repeated="19" table:default-cell-style-name="Default"/>
@@ -7201,7 +7207,6 @@
    </table:table>
    <table:table table:name="Klassenarbeit 4" table:style-name="ta1" table:protected="true">
     <loext:table-protection loext:select-protected-cells="true" loext:select-unprotected-cells="true"/>
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="ce14"/>
     <table:table-column table:style-name="co6" table:number-columns-repeated="2" table:default-cell-style-name="ce14"/>
     <table:table-column table:style-name="co6" table:number-columns-repeated="19" table:default-cell-style-name="Default"/>
